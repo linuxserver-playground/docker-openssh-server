@@ -1,0 +1,2 @@
+OpenSSH donations: https://www.openssh.org/donations.html
+OpenBSD Foundation donations: https://www.openbsdfoundation.org/donations.html
