@@ -13,6 +13,11 @@ upstream:
     type: alpine_apk
     repo_url: http://dl-cdn.alpinelinux.org/alpine/v3.24/main/
     package: openssh-server-pam
+  sponsor:
+  - name: OpenSSH donations
+    url: https://www.openssh.org/donations.html
+  - name: OpenBSD Foundation donations
+    url: https://www.openbsdfoundation.org/donations.html
 
 release:
   branch: master
